@@ -1,0 +1,2 @@
+[all]
+node03 ansible_connection=ssh
