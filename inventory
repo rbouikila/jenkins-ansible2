@@ -1,2 +1,4 @@
 [all]
-node03 ansible_connection=ssh
+srv01 ansible_connection=ssh
+srv02 ansible_connection=ssh
+srv03 ansible_connection=ssh
