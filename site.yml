@@ -2,3 +2,4 @@
     - all
   tasks:
     - action: ping
+    - role: influxdata.chrony
