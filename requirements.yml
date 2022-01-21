@@ -1,0 +1,10 @@
+---
+
+collections:
+- community.general
+
+roles:
+- name: 'chrony'
+  src: 'https://github.com/influxdata/ansible-chrony.git'
+  scm: 'git'
+  version: 'master'
